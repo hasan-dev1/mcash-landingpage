@@ -31,6 +31,7 @@ const Services = () => {
             </div>
           ))}
         </div>
+        
         <div className="text-center mt-6">
           <p className="btn btn-sm text-primary rounded btn-secondary">See All</p>
         </div>

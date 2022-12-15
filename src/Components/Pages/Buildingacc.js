@@ -20,6 +20,7 @@ const Buildingacc = () => {
               src="https://i.ibb.co/xFnmhGX/20602853-6300959-removebg-preview.png"
               alt=""
             />
+            
           </div>
           <div className="text-start lg:w-1/2 lg:mx-0 mx-8">
             <h2 className="mb-8 text-3xl">SignUp</h2>
