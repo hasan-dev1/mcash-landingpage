@@ -1,0 +1,45 @@
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  /* color:#ffc0cb96; */
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.imgbg{
+  filter: blur(1px);
+}
+
+.servicebg {
+  background-image: url("https://images.pexels.com/photos/6120394/pexels-photo-6120394.jpeg?auto=compress&cs=tinysrgb&w=1600");
+  background-position: 0 -65px;
+  filter: contrast(2);
+  background-size: cover;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

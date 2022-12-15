@@ -1,0 +1,82 @@
+[
+    {
+        "bannerdata":[
+          {
+            "image": "https://images.pexels.com/photos/6532378/pexels-photo-6532378.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "title": "Daily Rewards",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure amet vitae voluptatem voluptatibus voluptatum perferendis alias suscipit accusantium. Repellendus eius ut quia consequuntur unde provident deleniti dolorum ea! Accusantium, cupiditate."
+          },
+          {
+            "image": "https://images.pexels.com/photos/6532378/pexels-photo-6532378.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "title": "Daily Rewards",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure amet vitae voluptatem voluptatibus voluptatum perferendis alias suscipit accusantium. Repellendus eius ut quia consequuntur unde provident deleniti dolorum ea! Accusantium, cupiditate."
+          },
+          {
+            "image": "https://images.pexels.com/photos/6532378/pexels-photo-6532378.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "title": "Daily Rewards",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure amet vitae voluptatem voluptatibus voluptatum perferendis alias suscipit accusantium. Repellendus eius ut quia consequuntur unde provident deleniti dolorum ea! Accusantium, cupiditate."
+          },
+          {
+            "image": "https://images.pexels.com/photos/6532378/pexels-photo-6532378.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "title": "Daily Rewards",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure amet vitae voluptatem voluptatibus voluptatum perferendis alias suscipit accusantium. Repellendus eius ut quia consequuntur unde provident deleniti dolorum ea! Accusantium, cupiditate."
+          },
+          {
+            "image": "https://images.pexels.com/photos/6532378/pexels-photo-6532378.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "title": "Daily Rewards",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure amet vitae voluptatem voluptatibus voluptatum perferendis alias suscipit accusantium. Repellendus eius ut quia consequuntur unde provident deleniti dolorum ea! Accusantium, cupiditate."
+          }
+        ],
+        "serviceitem":[
+            {
+                "icon": "<FaChartLine></FaChartLine>" ,
+                "title":"Description",
+                "description":"Login to claim coin",
+                "bgcolor":"from-slate-100 to-green-500"
+            },
+            {
+              "icon": "icon",
+              "title": "Description",
+              "description": "Login to claim coin",
+              "bgcolor": "from-slate-100 to-indigo-400" 
+            },
+            {
+              "icon": "icon",
+              "title": "Description",
+              "description": "Login to claim coin",
+              "bgcolor": "from-slate-100 to-green-500"
+            },
+            {
+              "icon": "icon",
+              "title": "Description",
+              "description": "Login to claim coin",
+              "bgcolor": "from-slate-100 to-indigo-400"
+            },
+            {
+                "icon":"icon",
+                "title":"Description",
+                "description":"Login to claim coin",
+                "bgcolor":"from-slate-100 to-green-500"
+            },
+            {
+              "icon": "icon",
+              "title": "Description",
+              "description": "Login to claim coin",
+              "bgcolor": "from-slate-100 to-indigo-400"
+            },
+            {
+                "icon":"icon",
+                "title":"Description",
+                "description":"Login to claim coin",
+                "bgcolor":"from-slate-100 to-green-500"
+            },
+            {
+              "icon": "icon",
+              "title": "Description",
+              "description": "Login to claim coin",
+              "bgcolor": "from-slate-100 to-indigo-400"
+            }
+         
+        ]
+    }
+]
