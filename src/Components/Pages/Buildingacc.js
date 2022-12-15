@@ -13,17 +13,17 @@ const Buildingacc = () => {
             obcaecati,
           </p>
         </div>
-        <div className="flex justify-between lg:flex-row flex-col items-center py-3 lg:w-4/5 mx-auto text-primary">
+        <div className="flex justify-between lg:flex-row flex-col items-center py-3 lg:w-4/5 mx-auto text-[#504d50da]">
           <div className="lg:w-1/2 flex justify-center">
             <img
-              className="lg:w-2/3 max-h-[350px] mb-6"
+              className="lg:w-2/3 mb-6"
               src="https://i.ibb.co/xFnmhGX/20602853-6300959-removebg-preview.png"
               alt=""
             />
             
           </div>
           <div className="text-start lg:w-1/2 lg:mx-0 mx-8">
-            <h2 className="mb-8 text-3xl">SignUp</h2>
+            <h2 className="mb-8 text-3xl text-black">SignUp</h2>
             <h2 className="my-2">
               Sign up and claim coin Lorem ipsum dolor sit blanditiis sit beatae qui reprehenderit
               debitis fuga tempore totam provident. amet consectetur adipisicing
